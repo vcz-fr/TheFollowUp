@@ -27,7 +27,6 @@ author:
     card: summary
   github: vcz-fr
 
-permalink: "pretty"
 excerpt_separator: "<!-- READ MORE -->"
 paginate: 5
 paginate_path: "/all/:num"
