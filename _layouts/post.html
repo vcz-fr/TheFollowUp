@@ -10,8 +10,7 @@ layout: default
         Category: 
         {% for category in page.categories %}
             <a href="/categories/{{category | slugify}}">{{category}}</a>
-        {% endfor %}<br>
-        Tags: <b>{{page.tags | sort | join: "</b> ; <b>"}}</b>
+        {% endfor %}
     </p>
     <p>
         <span class="purple">Next:</span>
@@ -32,6 +31,23 @@ layout: default
     </p>
 </div>
 
+<div id="aside">
+    <div class="card">
+        <h2>Link</h2>
+        <p>
+            <a {% if page.link.dead %}class="dead" title="This link is dead, sorry :/"{% endif %} href="{% if page.link.dead %}#{% else %}{{ page.link.url }}{% endif %}" {% if page.link.follow %}rel="nofollow"{% endif %}>{{page.link.url}}</a>
+        </p>
+    </div>
+    
+    <div class="card">
+        <h2>Short description</h2>
+        <p>{{page.tweet}}</p>
+    </div>
+</div>
+
+{% assign content = page.content | strip_newlines %}
+{% if content != "" %}
 <div class="card" id="article">
     {{ content }}
 </div>
+{% endif %}

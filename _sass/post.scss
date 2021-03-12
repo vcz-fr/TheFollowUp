@@ -1,3 +1,17 @@
+#aside {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 2rem;
+
+    & > .card {
+        margin: 0;
+    }
+
+    a.dead {
+        color: $text-dead;
+    }
+}
+
 #article {
     font-family: blog, serif;
     font-size: 18px;
