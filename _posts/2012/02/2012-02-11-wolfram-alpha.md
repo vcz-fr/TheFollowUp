@@ -6,7 +6,7 @@ categories: ["Tools"]
 
 date: "2012-02-11"
 
-link: 
+link:
     url: "https://www.wolframalpha.com/"
     dead: false
     follow: false
