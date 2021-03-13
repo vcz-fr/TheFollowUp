@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="card">
-    <h2>When a tweet is just not enough…</h2>
+    <h1>For when a tweet is just not enough</h1>
     <p>
         Hello, Vincenzo <b>Scalzi</b> here!
     </p>
@@ -49,11 +49,17 @@ layout: default
 {% assign latest = site.posts | slice: 0, 10 %}
 <div class="card preview">
     <h2>Latest posts</h2>
+    <ol>
     {% for post in latest %}
-    <p>
+    <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
         sent {{ post.date | date: "%A %B %d, %Y" }}
         in <a href="/categories/{{ post.categories.first | slugify }}">{{ post.categories.first }}</a>
-    </p>
+    </li>
     {% endfor %}
+    </ol>
+
+    <p>
+        <i>Discover <a href="/all">more posts</a>&hellip;</i>
+    </p>
 </div>
