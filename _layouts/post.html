@@ -15,7 +15,7 @@ layout: default
     <p>
         <span class="purple">Next:</span>
         {% if page.next.url %}
-        <a href="{{page.next.url}}">{{page.next.title}}</a>
+        <a href="{{page.next.url}}" rel="next">{{page.next.title}}</a>
         {% else %}
         <span>You have reached the end&hellip;</span>
         {% endif %}
@@ -24,7 +24,7 @@ layout: default
 
         <span class="purple">Previous:</span>
         {% if page.previous.url %}
-        <a href="{{page.previous.url}}">{{page.previous.title}}</a>
+        <a href="{{page.previous.url}}" rel="prev">{{page.previous.title}}</a>
         {% else %}
         <span>You have reached the beginning&hellip;</span>
         {% endif %}
@@ -35,7 +35,7 @@ layout: default
     <div class="card">
         <h2>Link</h2>
         <p>
-            <a {% if page.link.dead %}class="dead" title="This link is dead, sorry :/"{% endif %} href="{% if page.link.dead %}#{% else %}{{ page.link.url }}{% endif %}" {% if page.link.follow %}rel="nofollow"{% endif %}>{{page.link.url}}</a>
+            <a {% if page.link.dead %}class="dead" title="This link is dead :/"{% else %}href="{{ page.link.url }}"{% endif %} {% if page.link.follow == false %}rel="nofollow noopener noreferrer"{% endif %}>{{page.link.url}}</a>
         </p>
     </div>
     
