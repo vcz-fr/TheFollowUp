@@ -27,6 +27,11 @@ author:
     card: summary
   github: vcz-fr
 
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title
+
 excerpt_separator: "<!-- READ MORE -->"
 paginate: 5
 paginate_path: "/all/:num"

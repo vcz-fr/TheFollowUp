@@ -7,7 +7,7 @@ layout: default
 
     <p>
         Posted on {{page.date | date: "%A %B %d, %Y"}}<br>
-        Category: 
+        Category:
         {% for category in page.categories %}
             <a href="/categories/{{category | slugify}}">{{category}}</a>
         {% endfor %}
