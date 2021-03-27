@@ -11,5 +11,5 @@ link:
     dead: false
     follow: false
 
-tweet: "Twitter now has featured hashtag pages. The first one is dedicated to #Nascar"
+tweet: "Twitter now has featured hashtag pages. The first one is dedicated to #Nascar."
 ---

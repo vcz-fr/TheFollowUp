@@ -11,5 +11,5 @@ link:
     dead: true
     follow: false
 
-tweet: "A new conflict is about to start between download sites and Hollywood"
+tweet: "A new conflict is about to start between download sites and Hollywood."
 ---

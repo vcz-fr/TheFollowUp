@@ -11,5 +11,5 @@ link:
     dead: false
     follow: false
 
-tweet: "Google closing converter websites may have far-reaching side effects on the sharing of knowledge"
+tweet: "Google closing converter websites may have far-reaching side effects on the sharing of knowledge."
 ---

@@ -11,5 +11,5 @@ link:
     dead: true
     follow: false
 
-tweet: "A mobile phone with 15 years of autonomy"
+tweet: "A mobile phone with 15 years of autonomy."
 ---
