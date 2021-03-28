@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "First Humble Indie Book Bundle"
+title: "First Humble Book Bundle"
 categories: ["Web"]
 
 date: "2012-10-09"

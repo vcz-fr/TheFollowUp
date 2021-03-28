@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Hunble Indie Bundle 7"
+title: "Humble Indie Bundle 7"
 categories: ["Games"]
 
 date: "2012-12-19"
