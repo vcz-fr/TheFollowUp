@@ -33,7 +33,7 @@ collections:
     permalink: /:year/:month/:day/:title
 
 excerpt_separator: "<!-- READ MORE -->"
-paginate: 5
+paginate: 50
 paginate_path: "/all/:num"
 
 # Build settings
