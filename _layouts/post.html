@@ -48,6 +48,10 @@ layout: default
 {% assign content = page.content | strip_newlines %}
 {% if content != "" %}
 <div class="card" id="article">
+    <div class="reading-time">
+        {%- assign reading_time = content | number_of_words | divided_by: 170.0 | ceil -%}
+        ⏱ Estimated reading time: {{ reading_time }} minute{% if reading_time > 1 %}s{% endif %}
+    </div>
     {{ content }}
 </div>
 {% endif %}
