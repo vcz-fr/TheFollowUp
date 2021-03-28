@@ -9,7 +9,7 @@ layout: default
         Posted on {{page.date | date: "%A %B %d, %Y"}}<br>
         Category:
         {% for category in page.categories %}
-            <a href="/categories/{{category | slugify}}">{{category}}</a>
+        <a href="/categories/{{category | slugify}}">{{category}}</a>
         {% endfor %}
     </p>
     <p>
@@ -35,10 +35,12 @@ layout: default
     <div class="card">
         <h2>Link</h2>
         <p>
-            <a {% if page.link.dead %}class="dead" title="This link is dead :/"{% else %}href="{{ page.link.url }}"{% endif %} {% if page.link.follow == false %}rel="nofollow noopener noreferrer"{% endif %}>{{page.link.url}}</a>
+            <a {% if page.link.dead %}class="dead" title="This link is dead :/" {% else %}href="{{ page.link.url }}" {%
+                endif %} {% if page.link.follow==false %}rel="nofollow noopener noreferrer" {% endif
+                %}>{{page.link.url}}</a>
         </p>
     </div>
-    
+
     <div class="card">
         <h2>Short description</h2>
         <p>{{page.tweet}}</p>
@@ -53,5 +55,14 @@ layout: default
         ⏱ Estimated reading time: {{ reading_time }} minute{% if reading_time > 1 %}s{% endif %}
     </div>
     {{ content }}
+</div>
+{% endif %}
+
+{% if page.images != null %}
+{%- assign date_id = page.date | date: "%Y%m%d" -%}
+<div class="card image-gallery">
+    {% for image in page.images %}
+    <img src="/assets/img/posts/{{ date_id }}/{{ image }}">
+    {% endfor %}
 </div>
 {% endif %}

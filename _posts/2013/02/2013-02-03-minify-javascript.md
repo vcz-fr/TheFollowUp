@@ -2,7 +2,7 @@
 layout: post
 
 title: "MinifyJavascript"
-categories: ["Toools"]
+categories: ["Tools"]
 
 date: "2013-02-03"
 
