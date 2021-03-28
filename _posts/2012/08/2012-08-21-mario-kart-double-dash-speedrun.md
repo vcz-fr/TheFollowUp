@@ -2,7 +2,7 @@
 layout: post
 
 title: "Mario Kart Double Dash speedrun"
-categories: ["Games"]
+categories: ["Shows"]
 
 date: "2012-08-21"
 

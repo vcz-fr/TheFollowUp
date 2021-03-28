@@ -20,13 +20,8 @@
   }
 
   #menu,
-  #content,
-  #portfolio .portfolio-item > * {
+  #content {
     width: 100%;
     margin: 0;
-  }
-
-  #portfolio .portfolio-item {
-    flex-direction: column;
   }
 }

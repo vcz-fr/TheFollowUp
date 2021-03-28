@@ -89,25 +89,6 @@ a, nav > a:hover, .purple {
     display: none;
 }
 
-#portfolio .portfolio-item {
-    display: flex;
-
-    & > * {
-        width: 50%;
-        margin: 0 1rem;
-    }
-    
-    .portfolio-image {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-
-        img {
-            width: 100%;
-        }
-    }
-}
-
 #menu {
     .text-center:hover h1 {
         color: rgba(0,0,0,.1);
