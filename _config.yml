@@ -45,6 +45,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
+feed:
+  posts_limit: 50
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

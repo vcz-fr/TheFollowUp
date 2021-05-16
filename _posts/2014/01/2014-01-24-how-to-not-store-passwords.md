@@ -1,0 +1,18 @@
+---
+layout: post
+
+title: "How NOT to store passwords - Computerphile"
+categories: ["Shows"]
+
+date: "2014-01-24"
+
+link:
+    url: "https://www.youtube.com/watch?v=8ZtInClXe1Q"
+    dead: false
+    follow: false
+
+tweet: "If you are an aspiring web developer, please watch this video and take some inspiration from it."
+---
+
+This is the first time I have ever heard of [Tom Scott](https://www.youtube.com/user/enyay){:rel="nofollow"}, a very
+famous British youtuber that is easy to recommend. I wonder if I had a look at his other videos back then...
