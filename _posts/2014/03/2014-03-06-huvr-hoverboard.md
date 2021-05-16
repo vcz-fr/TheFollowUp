@@ -1,8 +1,8 @@
 ---
 layout: post
 
-title: "Call of Duty MetaCritic score"
-categories: ["Games"]
+title: "Huvr hoverboard"
+categories: ["High-Tech"]
 
 date: "2014-03-06"
 
