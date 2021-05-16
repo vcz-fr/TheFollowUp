@@ -14,5 +14,5 @@ link:
 tweet: "Consider it. A pizza with radius _z_ and thickness _a_ has a volume of _pi * z^2 * a_, or _pizza_ for short."
 
 images:
-    - pizza.jpg
+    - pizza.webp
 ---

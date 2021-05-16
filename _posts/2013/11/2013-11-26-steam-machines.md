@@ -14,5 +14,5 @@ link:
 tweet: "The Steam machines prototypes are being leaked."
 
 images:
-    - steam-machine.jpg
+    - steam-machine.webp
 ---
