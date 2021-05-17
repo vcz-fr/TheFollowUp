@@ -1,0 +1,15 @@
+---
+layout: post
+
+title: "Windows 10 live event"
+categories: ["OS"]
+
+date: "2014-09-30"
+
+link:
+    url: "https://live.theverge.com/microsoft-windows-9-event-live-blog/"
+    dead: true
+    follow: false
+
+tweet: "For the people who love Windows out there, the Windows 10 demo build number is 9841."
+---
