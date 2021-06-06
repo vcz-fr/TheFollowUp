@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Game Theory"
 categories: ["Shows"]
-
-date: "2013-12-31"
 
 link:
     url: "https://www.youtube.com/user/MatthewPatrick13"

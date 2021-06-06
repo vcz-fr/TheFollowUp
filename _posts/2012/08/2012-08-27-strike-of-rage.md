@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Strike of Rage!"
 categories: ["Games"]
-
-date: "2012-08-27"
 
 link:
     url: "https://deepnight.net/games/strike-of-rage/"

@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Twitter hashtag pages"
 categories: ["News"]
-
-date: "2012-06-12"
 
 link:
     url: "https://twitter.com/hashtag/nascar"

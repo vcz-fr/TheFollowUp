@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Decreasing roaming prices in Europe"
 categories: ["News"]
-
-date: "2012-05-10"
 
 link:
     url: "https://www.generation-nt.com/parlement-europe-itinerance-roaming-cout-plafond-actualite-1577681.html"

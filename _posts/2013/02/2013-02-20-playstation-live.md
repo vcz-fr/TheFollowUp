@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "PlayStation 4 Live event"
 categories: ["Games"]
-
-date: "2013-02-20"
 
 link:
     url: "https://www.playstation.com/en-us/"

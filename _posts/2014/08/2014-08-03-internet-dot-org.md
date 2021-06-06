@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Internet.org"
 categories: ["Web"]
-
-date: "2014-08-03"
 
 link:
     url: "https://internet.org/"

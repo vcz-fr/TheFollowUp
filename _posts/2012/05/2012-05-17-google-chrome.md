@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Google Chrome debuts"
 categories: ["Web"]
-
-date: "2012-05-17"
 
 link:
     url: "https://www.leparisien.fr/high-tech/le-navigateur-internet-le-plus-utilise-au-monde-serait-google-chrome-16-05-2012-2004533.php"

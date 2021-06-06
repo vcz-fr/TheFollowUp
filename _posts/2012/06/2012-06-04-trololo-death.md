@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Mr. Trololo died"
 categories: ["News"]
-
-date: "2012-06-04"
 
 link:
     url: "https://www.slate.fr/lien/57103/mort-mr-trololo"

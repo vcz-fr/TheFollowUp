@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Tangible light"
 categories: ["News"]
-
-date: "2014-09-12"
 
 link:
     url: "https://gizmodo.com/physicists-are-making-solid-light-1633885762"

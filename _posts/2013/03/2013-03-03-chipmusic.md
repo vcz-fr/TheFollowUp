@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Chipmusic"
 categories: ["Web"]
-
-date: "2013-03-03"
 
 link:
     url: "https://chipmusic.org/"

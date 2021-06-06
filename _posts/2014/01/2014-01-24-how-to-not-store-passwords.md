@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "How NOT to store passwords - Computerphile"
 categories: ["Shows"]
-
-date: "2014-01-24"
 
 link:
     url: "https://www.youtube.com/watch?v=8ZtInClXe1Q"

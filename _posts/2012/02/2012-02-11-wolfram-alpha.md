@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Wolfram Alpha"
 categories: ["Tools"]
-
-date: "2012-02-11"
 
 link:
     url: "https://www.wolframalpha.com/"

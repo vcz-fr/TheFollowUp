@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Six new channels to be added to French TVs"
 categories: ["News"]
-
-date: "2012-07-04"
 
 link:
     url: "https://www.lemonde.fr/actualite-medias/article/2012/06/05/les-six-nouvelles-chaines-de-la-tnt-emettront-des-le-12-decembre_1713256_3236.html"

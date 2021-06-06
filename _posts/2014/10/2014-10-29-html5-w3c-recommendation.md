@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "HTML5 is a W3C recommendation"
 categories: ["Web"]
-
-date: "2014-10-29"
 
 link:
     url: "https://www.w3.org/blog/news/archives/4167"

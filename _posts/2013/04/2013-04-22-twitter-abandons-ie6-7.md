@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Twitter drops support for IE 6 and 7"
 categories: ["Web"]
-
-date: "2013-04-22"
 
 link:
     url: "https://www.presse-citron.net/twitter-abandonne-ie6-et-ie7/"

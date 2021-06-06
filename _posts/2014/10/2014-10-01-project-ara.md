@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Project ARA release date"
 categories: ["Hardware"]
-
-date: "2014-10-01"
 
 link:
     url: "https://blog.phonebloks.com/post/98723406113/project-ara-news-by-giulio-minotti-google"

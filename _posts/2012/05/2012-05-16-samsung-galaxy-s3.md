@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Launch dates of the Samsung Galaxy s3 in France"
 categories: ["High-Tech"]
-
-date: "2012-05-16"
 
 link:
     url: "https://www.clubic.com/smartphone/android/actualite-491354-samsung-galaxy-s3-fin-mai-chez-operateurs-francais.html"

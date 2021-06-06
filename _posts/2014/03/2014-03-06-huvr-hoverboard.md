@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Huvr hoverboard"
 categories: ["High-Tech"]
-
-date: "2014-03-06"
 
 link:
     url: "https://www.youtube.com/watch?v=A4vE_vpkr90"

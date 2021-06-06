@@ -1,15 +1,11 @@
 ---
-layout: post
-
-title: "Decreasing roaming prices in Europe"
-categories: ["News"]
-
-date: "2012-05-10"
+title: "Epic Combo Redux"
+categories: ["Games"]
 
 link:
-    url: "https://www.generation-nt.com/parlement-europe-itinerance-roaming-cout-plafond-actualite-1577681.html"
+    url: "https://armorgames.com/play/13256/epic-combo-redux"
     dead: false
     follow: false
 
-tweet: "Great! The price of calls, SMS and roaming should drop in a few months!"
+tweet: "Do you like games from John at ArmorGames? Well he just released one of his classics!"
 ---

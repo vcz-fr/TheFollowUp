@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Hello world jokes"
 categories: ["Development"]
-
-date: "2013-05-25"
 
 link:
     url: "https://www.gnu.org/fun/jokes/helloworld.html"

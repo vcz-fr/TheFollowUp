@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "FanaticGame"
 categories: ["Web"]
-
-date: "2012-08-21"
 
 link:
     url: "https://www.fanaticgame.com/"

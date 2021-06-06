@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Hacker Experience"
 categories: ["Games"]
-
-date: "2014-09-19"
 
 link:
     url: "https://hackerexperience.com/"

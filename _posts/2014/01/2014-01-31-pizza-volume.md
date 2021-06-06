@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Pizza volume"
 categories: ["Shows"]
-
-date: "2014-01-31"
 
 link:
     url: "https://twitter.com/IFLScience/status/429101792895705088"

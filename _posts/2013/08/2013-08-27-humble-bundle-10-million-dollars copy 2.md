@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Humble Origin Bundle crossed $10 million"
 categories: ["Games"]
-
-date: "2013-08-27"
 
 link:
     url: "https://www.humblebundle.com/"

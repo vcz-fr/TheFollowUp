@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Angry Birds Epic"
 categories: ["Games"]
-
-date: "2014-06-15"
 
 link:
     url: "https://epic.angrybirds.com/"

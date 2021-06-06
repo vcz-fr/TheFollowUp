@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Kickstarter is not a store"
 categories: ["News"]
-
-date: "2013-12-02"
 
 link:
     url: "https://www.kickstarter.com/blog/kickstarter-is-not-a-store"

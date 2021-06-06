@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Five years of Kongregate badges"
 categories: ["Games"]
-
-date: "2012-08-21"
 
 link:
     url: "https://www.kongregate.com/"

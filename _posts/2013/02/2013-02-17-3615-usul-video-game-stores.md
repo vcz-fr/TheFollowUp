@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "3615 Usul: Video game stores"
 categories: ["Shows"]
-
-date: "2013-02-17"
 
 link:
     url: "https://www.jeuxvideo.com/chroniques-video/00000345/3615-usul-les-magasins-de-jeux-video-00110509.htm"

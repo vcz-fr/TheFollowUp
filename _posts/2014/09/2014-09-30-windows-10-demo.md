@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Windows 10 live event"
 categories: ["OS"]
-
-date: "2014-09-30"
 
 link:
     url: "https://live.theverge.com/microsoft-windows-9-event-live-blog/"

@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Augmented Reality windshields"
 categories: ["High-Tech"]
-
-date: "2014-07-23"
 
 link:
     url: "https://newatlas.com/jaguar-land-rover-virtual-windscreen-concept/32930/"

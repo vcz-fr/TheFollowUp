@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "First Humble Book Bundle"
 categories: ["Web"]
-
-date: "2012-10-09"
 
 link:
     url: "https://www.humblebundle.com/"

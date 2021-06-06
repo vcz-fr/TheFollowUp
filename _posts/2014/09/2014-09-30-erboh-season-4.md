@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Epic Rap Battles of Hstory - Season 4"
 categories: ["Music"]
-
-date: "2014-09-30"
 
 link:
     url: "https://www.youtube.com/watch?v=-huwiIHUDSc"

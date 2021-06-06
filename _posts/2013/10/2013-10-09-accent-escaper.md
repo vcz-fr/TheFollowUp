@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Accent escaper"
 categories: ["Tools"]
-
-date: "2013-10-09"
 
 link:
     url: "https://tools.vcz.fr/accent_escaper.html"

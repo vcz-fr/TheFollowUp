@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "A graphics cards purchase workflow issue offers free games"
 categories: ["Games"]
-
-date: "2013-10-04"
 
 link:
     url: "https://korben.info/amd-rewards.html"

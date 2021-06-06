@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Clicking Bad"
 categories: ["Games"]
-
-date: "2013-11-09"
 
 link:
     url: "http://clickingbad.nullism.com/"

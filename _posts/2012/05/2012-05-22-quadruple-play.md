@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Quadruple-pay"
 categories: ["News"]
-
-date: "2012-05-22"
 
 link:
     url: "https://www.commentcamarche.net/news/5859317-numericable-va-lancer-une-offre-quadruple-play-a-tres-haut-debit"

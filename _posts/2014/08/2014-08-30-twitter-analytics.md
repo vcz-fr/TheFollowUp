@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Twitter Analytics"
 categories: ["Tools"]
-
-date: "2014-08-30"
 
 link:
     url: "https://analytics.twitter.com/"

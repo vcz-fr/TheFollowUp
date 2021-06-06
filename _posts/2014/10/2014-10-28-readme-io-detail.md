@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "ReadMe.io UX detail"
 categories: ["OS"]
-
-date: "2014-10-28"
 
 link:
     url: "https://twitter.com/micho/status/526868242955243520"

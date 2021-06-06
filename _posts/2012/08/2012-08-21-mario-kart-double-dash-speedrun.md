@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Mario Kart Double Dash speedrun"
 categories: ["Shows"]
-
-date: "2012-08-21"
 
 link:
     url: "https://www.nesblog.com/speed-game-mario-kart-double-dash-fini-en-2907/"

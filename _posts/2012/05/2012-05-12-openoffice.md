@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Apache OpenOffice wakes up for version 3.4"
 categories: ["News"]
-
-date: "2012-05-12"
 
 link:
     url: "https://www.itespresso.fr/openoffice-sort-de-sa-lethargie-en-version-3-4-53153.html"

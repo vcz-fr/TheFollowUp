@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Nokia Lumia trades performance for better autonomy"
 categories: ["High-Tech"]
-
-date: "2012-05-14"
 
 link:
     url: "https://www.silicon.fr/lumia-windows-phone-nokia-multicoeur-74553.html"

@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "OnePlus One preorder"
 categories: ["Hardware"]
-
-date: "2014-10-20"
 
 link:
     url: "https://preorder.oneplus.net/"

@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Free Mobile reached 3 million customers"
 categories: ["News"]
-
-date: "2012-05-06"
 
 link:
     url: "https://www.boursier.com/actualites/economie/et-pendant-ce-temps-free-mobile-engrange-14744.html"

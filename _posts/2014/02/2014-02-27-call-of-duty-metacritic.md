@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Call of Duty MetaCritic score"
 categories: ["Games"]
-
-date: "2014-02-27"
 
 link:
     url: "https://www.metacritic.com/game/pc/call-of-duty-ghosts"

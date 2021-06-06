@@ -1,10 +1,6 @@
 ---
-layout: post
-
 title: "Humble Indie Bundle X"
 categories: ["Games"]
-
-date: "2014-01-07"
 
 link:
     url: "https://www.humblebundle.com/"
