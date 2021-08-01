@@ -13,5 +13,5 @@ tweet: "Free, a French ISP, announced a new ground-breaking entry-tier triple-pa
 ## Update from the 1st of August 2021
 
 The equipment replaces the cheapest -as in inexpensive and non-qualitative- equipment to date, the Freebox Crystal. It
-supports ADSL, VDSL or fiber connections, 4K IPTV and uses Android TV for the low price of 29,99€ per month. The TV
+supports ADSL, VDSL or fiber connections, 4K IPTV and uses Android TV for the low price of 29.99€ per month. The TV
 remote can use voice control to help you find your favorite shows. Clearly, that is a good deal.
