@@ -10,7 +10,7 @@ link:
 tweet: "A browser for Web Developers, by Mozilla"
 ---
 
-# Update from the 6th of June 2021
+## Update from the 6th of June 2021
 
 And I am still using and loving it! Being able to quickly open the developer console and tinker with webpages has been a
 life saver on multiple occasions or the past years. Thanks Mozilla for the hard work you did, enabling the developer

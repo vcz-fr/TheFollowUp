@@ -13,7 +13,7 @@ images:
   - lets-encrypt.webp
 ---
 
-# Update from the 6th of June 2021
+## Update from the 6th of June 2021
 
 The face of the Web changed in 2015. Developers and organizations from all horizons joined handsand started using this 
 service right away. The adoption over the following weeks that more actors began relying on their services and making 

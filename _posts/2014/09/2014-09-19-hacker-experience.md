@@ -10,6 +10,8 @@ link:
 tweet: "I recently stumbled upon this nice online hacking simulation game. Recent and somewhat active!"
 ---
 
+## Additional information
+
 If only you knew, silly younger me.
 
 While the game was aesthetically pleasing for its time and running on a WebOS, the administrator soon became greedy and
