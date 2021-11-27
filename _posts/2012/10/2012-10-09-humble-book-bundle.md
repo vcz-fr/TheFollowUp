@@ -1,6 +1,6 @@
 ---
 title: "First Humble Book Bundle"
-categories: ["Web"]
+categories: ["Reads"]
 
 link:
     url: "https://www.humblebundle.com/"

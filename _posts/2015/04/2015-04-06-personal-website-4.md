@@ -7,5 +7,5 @@ link:
     dead: false
     follow: true
 
-tweet: "Version four of my website shows it head. This one stems from a template found somewhere on the Web."
+tweet: "Version four of my website shows its head. This one stems from a template found somewhere on the Web."
 ---

@@ -7,5 +7,5 @@ link:
     dead: true
     follow: false
 
-tweet: "As a fan of the first game, I wish I had a bad to put these pins on."
+tweet: "As a fan of the first game, I wish I had a bag to put these pins on."
 ---

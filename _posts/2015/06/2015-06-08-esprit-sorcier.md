@@ -1,6 +1,6 @@
 ---
 title: "Esprit Sorcier financing campaign"
-categories: ["Shows"]
+categories: ["Shows", "Science"]
 
 link:
     url: "https://www.kisskissbankbank.com/fr/projects/lespritsorcier-org"

@@ -4,7 +4,7 @@ categories: ["Tools"]
 
 link:
     url: "https://dev.vcz.fr/fa+"
-    dead: false
+    dead: true
     follow: false
 
 tweet: "Here is FontAwesome +, a new tool to generate leaner FontAwesome CSS assets."

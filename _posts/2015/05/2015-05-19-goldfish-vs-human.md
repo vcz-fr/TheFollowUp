@@ -1,6 +1,6 @@
 ---
-title: "Humans are becoming more destracted than goldfishes"
-categories: ["News"]
+title: "Humans are becoming more distracted than goldfishes"
+categories: ["Science", "Random"]
 
 link:
     url: "https://www.francetvinfo.fr/replay-radio/nouveau-monde/moins-de-concentration-que-les-poissons-rouges-a-cause-des-ecrans_1778207.html"

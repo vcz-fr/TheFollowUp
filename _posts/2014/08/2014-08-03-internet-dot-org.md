@@ -14,7 +14,7 @@ tweet: "With this, you can clearly identify which IT news websites are trustwort
 
 Do you own research, of course. It appears that this project was set out to bring Internet connectivity to new
 communities. In the grand scheme of things, this is part of Facebook's strategy "we reached a billion users, how to
-reack the next billion?". Hard it is to progress when there is a conflict of interest this large with branching side
+reach the next billion?". Hard it is to progress when there is a conflict of interest this large with branching side
 debates such as net neutrality.
 
 The story did not end well with several companies and individuals criticizing the direction the project was taking,

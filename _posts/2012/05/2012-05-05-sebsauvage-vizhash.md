@@ -1,6 +1,6 @@
 ---
 title: "Sebsauvage's VizHash"
-categories: ["Tools"]
+categories: ["Random"]
 
 link:
     url: "https://sebsauvage.net/vizhash_gd.php"

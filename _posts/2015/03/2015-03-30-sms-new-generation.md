@@ -1,6 +1,6 @@
 ---
 title: "SMS, new generation"
-categories: ["News"]
+categories: ["High-Tech"]
 
 link:
     url: "https://www.zdnet.fr/actualites/orange-et-sfr-des-sms-de-nouvelle-generation-39817114.htm"

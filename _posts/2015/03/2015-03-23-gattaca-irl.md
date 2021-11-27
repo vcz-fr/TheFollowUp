@@ -1,6 +1,6 @@
 ---
 title: "Gattaca, in real life"
-categories: ["News"]
+categories: ["Science"]
 
 link:
     url: "https://www.letemps.ch/sciences/chirurgie-ladn-bebe-mesure"

@@ -1,6 +1,6 @@
 ---
 title: "The Deepest site"
-categories: ["Games"]
+categories: ["Random"]
 
 link:
     url: "https://thedeepestsite.com/"

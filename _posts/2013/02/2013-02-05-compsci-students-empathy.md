@@ -1,6 +1,6 @@
 ---
 title: "Computer Science Engineering students are among the less empathetic"
-categories: ["News"]
+categories: ["Random"]
 
 link:
     url: "https://korben.info/ingenieur-et-sans-coeur.html"
