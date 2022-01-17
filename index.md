@@ -30,7 +30,7 @@ enjoy the contents, come by [the place that hosts it](https://github.com/vcz-fr/
 your mark. Or check out my [personal website](https://vcz.fr), my [Meetup notes](https://meetups.vcz.fr), my [blog](https://blog.vcz.fr)
 or my [apps](https://apps.vcz.fr).
 
-Do not forget to [leave some feedback](https://apps.vcz.fr/feedback/?appid=hS7YejNaDu6k) so that I can make your
+Do not forget to [leave some feedback](https://apps.vcz.fr/app/feedback/?appid=hS7YejNaDu6k) so that I can make your
 experience better.
 
 Back to you now!
