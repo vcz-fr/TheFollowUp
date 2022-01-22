@@ -2,8 +2,7 @@
 layout: default
 ---
 
-<div class="card">
-{%- capture text -%}
+<div class="card" markdown="1">
 
 # For when a tweet is just not enough
 
@@ -35,13 +34,11 @@ experience better.
 
 Back to you now!
 
-{%- endcapture -%}
-{{ text | markdownify }}
 </div>
 
 {% assign latest = site.posts | slice: 0, 10 %}
-<div class="card">
-{%- capture text -%}
+<div class="card" markdown="1">
+
 ## Latest posts
 
 {% for post in latest -%}
@@ -50,6 +47,4 @@ Back to you now!
 
 _Discover [{{ site.posts.size | minus: 10 }} more posts](/all)&hellip;_
 
-{%- endcapture -%}
-{{ text | markdownify }}
 </div>
