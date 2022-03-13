@@ -7,5 +7,5 @@ link:
     dead: true
     follow: false
 
-tweet: "This cute app recognizes cats and adds text bubbles next to them."
+tweet: "This cute app recognizes cats and adds text bubbles next to them"
 ---
