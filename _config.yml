@@ -40,6 +40,10 @@ kramdown:
   input: GFM
   highlighter: rouge
 
+sass:
+  sourcemap: never
+  style: compressed
+
 defaults:
   - scope:
       path: _posts
