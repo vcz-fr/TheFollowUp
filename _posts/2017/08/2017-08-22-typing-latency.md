@@ -1,5 +1,5 @@
 ---
-title: "Understaning typing latency"
+title: "Understanding typing latency"
 categories: ["Reads"]
 
 link:
