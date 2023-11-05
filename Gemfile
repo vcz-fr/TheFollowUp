@@ -9,8 +9,8 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll", "~> 4.0.0"
-gem "jekyll-feed", "~> 0.16.0"
+gem "jekyll", "~> 4.3"
+gem "jekyll-feed", "~> 0.16"
 gem "jekyll-sitemap", "~> 1.4"
 gem "jekyll-seo-tag", "~> 2.7"
 gem "jekyll-paginate", "~> 1.1"
