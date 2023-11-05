@@ -4,13 +4,13 @@ layout: default
 
 <div class="card" markdown="1">
 
-# For when a tweet is just not enough
+# Scouting the Web since 2012
 
-The world is wonderful. So many places for your mind to wander around. So many ideas to explore. Us billions produce
-such an amount of knowledge, passion, ideas. A portion of which ends up on the Internet and will get discovered, shared
-and improved. This website aims to become my curated trove of discoveries. Articles, snippets, ideas and more.
+The world is wonderful. So many places for the mind to wander. So many ideas to explore. There lives such an amount of
+knowledge, passion, ideas on this planet. A portion of which ends up on the Internet and will get discovered, shared and
+improved. This website is my curated trove of discoveries. Articles, snippets, ideas and more.
 
-At times, 280 characters don't bring enough context. Explaining why content deserves your attention takes longer. It may
+Sometimes, 280 characters don't bring enough context. Explaining why content deserves attention takes longer. It may
 be because it deals with a topic of importance to me or because it demonstrates progress, some vision years in the
 making, years into the future. The future we are building, one idea at a time.
 
