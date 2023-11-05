@@ -6,5 +6,5 @@ link:
     url: "https://groups.google.com/forum/message/raw?msg=comp.lang.ada/E9bNCvDQ12k/1tezW24ZxdAJ"
     dead: true
 
-tweet: "A short story of well-known memory leaks but still fascinating to read."
+message: "A short story of well-known memory leaks but still fascinating to read."
 ---

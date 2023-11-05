@@ -6,5 +6,5 @@ link:
     url: "https://opensource.google/documentation/reference/thirdparty/licenses#banned"
     dead: false
 
-tweet: "These software licenses are not authorized at Google for various reasons."
+message: "These software licenses are not authorized at Google for various reasons."
 ---

@@ -6,5 +6,5 @@ link:
     url: "https://www.rclarkson.com/blogs/newsletter/product-archive-floating-cloud"
     dead: false
 
-tweet: "This is so cool. Super expensive but so cool."
+message: "This is so cool. Super expensive but so cool."
 ---

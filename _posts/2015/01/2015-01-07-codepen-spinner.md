@@ -6,7 +6,7 @@ link:
     url: "https://codepen.io/Vincenzo/full/pvRgBp"
     dead: false
 
-tweet: "While I was playing with my loading screen, I created a new animated spinner."
+message: "While I was playing with my loading screen, I created a new animated spinner."
 ---
 
 ## Additional information

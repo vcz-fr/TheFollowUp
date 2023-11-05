@@ -6,5 +6,5 @@ link:
     url: "https://www.clubic.com/smartphone/android/actualite-491354-samsung-galaxy-s3-fin-mai-chez-operateurs-francais.html"
     dead: false
 
-tweet: "Just a few days before the Samsung Galaxy S3!"
+message: "Just a few days before the Samsung Galaxy S3!"
 ---

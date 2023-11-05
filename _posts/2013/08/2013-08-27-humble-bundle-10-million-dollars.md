@@ -6,5 +6,5 @@ link:
     url: "https://www.humblebundle.com/"
     dead: false
 
-tweet: "The Humble Origin Bundle is the first to cross ten million dollars!"
+message: "The Humble Origin Bundle is the first to cross ten million dollars!"
 ---

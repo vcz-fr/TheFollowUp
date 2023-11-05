@@ -6,7 +6,7 @@ link:
     url: "https://www.youtube.com/watch?v=A4vE_vpkr90"
     dead: false
 
-tweet: "Wait, is this a hoverboard just like in Back to the Future 2?"
+message: "Wait, is this a hoverboard just like in Back to the Future 2?"
 ---
 
 ## Additional information

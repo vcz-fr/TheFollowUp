@@ -6,5 +6,5 @@ link:
     url: "https://developers.google.com/recaptcha/docs/faq"
     dead: false
 
-tweet: "Google reCaptcha v1 will be disabled by the end of March 2018."
+message: "Google reCaptcha v1 will be disabled by the end of March 2018."
 ---

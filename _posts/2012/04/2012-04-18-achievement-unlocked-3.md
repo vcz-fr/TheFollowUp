@@ -6,5 +6,5 @@ link:
     url: "https://armorgames.com/play/13196/achievement-unlocked-3"
     dead: false
 
-tweet: "A must-play that is still trending! Love!"
+message: "A must-play that is still trending! Love!"
 ---

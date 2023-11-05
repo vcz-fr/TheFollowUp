@@ -6,5 +6,5 @@ link:
     url: "http://fr.news-republic.com/Web/ArticleWeb.aspx?regionid=2&articleid=2919473"
     dead: true
 
-tweet: "A mobile phone with 15 years of autonomy."
+message: "A mobile phone with 15 years of autonomy."
 ---

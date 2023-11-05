@@ -6,7 +6,7 @@ link:
     url: "https://www.free.fr/freebox/freebox-mini-4k/"
     dead: false
 
-tweet: "Free, a French ISP, announced a new ground-breaking entry-tier triple-pay offering."
+message: "Free, a French ISP, announced a new ground-breaking entry-tier triple-pay offering."
 ---
 
 ## Update from the 1st of August 2021

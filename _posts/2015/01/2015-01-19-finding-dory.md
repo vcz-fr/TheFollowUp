@@ -6,5 +6,5 @@ link:
     url: "https://www.imdb.com/title/tt2277860/"
     dead: false
 
-tweet: "Just as we thought Finding Nemo was behind us..."
+message: "Just as we thought Finding Nemo was behind us..."
 ---

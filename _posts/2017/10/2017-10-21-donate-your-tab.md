@@ -6,7 +6,7 @@ link:
     url: "https://donateyourtab.to/"
     dead: true
 
-tweet: "If they actually donate the proceeds to charity, this is a great move."
+message: "If they actually donate the proceeds to charity, this is a great move."
 ---
 
 ## Update from the 30th of January 2022

@@ -6,5 +6,5 @@ link:
     url: "https://www.zdnet.fr/actualites/cloud-la-legislation-europeenne-n-est-pas-un-obstacle-au-patriot-act-39785209.htm"
     dead: false
 
-tweet: "The European legislation does not prevent the Patriot Act from being applied."
+message: "The European legislation does not prevent the Patriot Act from being applied."
 ---

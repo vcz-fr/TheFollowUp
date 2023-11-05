@@ -6,5 +6,5 @@ link:
     url: "https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad"
     dead: false
 
-tweet: "Google Colab trains prototypes and small ML models for free."
+message: "Google Colab trains prototypes and small ML models for free."
 ---

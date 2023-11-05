@@ -6,7 +6,7 @@ link:
     url: "https://www.mozilla.org/en-US/firefox/developer/"
     dead: false
 
-tweet: "A browser for Web Developers, by Mozilla"
+message: "A browser for Web Developers, by Mozilla"
 ---
 
 ## Update from the 6th of June 2021

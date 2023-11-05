@@ -6,5 +6,5 @@ link:
     url: "https://www.maxisciences.com/operateur-mobile/free-mobile-un-potentiel-de-couvrir-30-de-la-population-francaise_art24214.html"
     dead: false
 
-tweet: "I held no doubt about Free Mobile! Not SFR and Bouygues, apparently!"
+message: "I held no doubt about Free Mobile! Not SFR and Bouygues, apparently!"
 ---

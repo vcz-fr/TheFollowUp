@@ -6,5 +6,5 @@ link:
     url: "https://ouverture-facile.com/"
     dead: true
 
-tweet: "You like steganography and puzzles? You'll be served."
+message: "You like steganography and puzzles? You'll be served."
 ---

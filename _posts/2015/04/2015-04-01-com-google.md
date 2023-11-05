@@ -6,5 +6,5 @@ link:
     url: "https://com.google"
     dead: true
 
-tweet: "This Google April Fools joke fits in one line of CSS."
+message: "This Google April Fools joke fits in one line of CSS."
 ---

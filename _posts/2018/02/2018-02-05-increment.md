@@ -6,7 +6,7 @@ link:
     url: "https://increment.com/"
     dead: false
 
-tweet: "Increment is by far one of my favourite technical magazines, scouting the industry for interesting facts about each topic"
+message: "Increment is by far one of my favourite technical magazines, scouting the industry for interesting facts about each topic"
 ---
 
 ## Update from the 15th of January 2023

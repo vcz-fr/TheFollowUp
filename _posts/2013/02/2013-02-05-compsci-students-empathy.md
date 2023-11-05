@@ -6,5 +6,5 @@ link:
     url: "https://korben.info/ingenieur-et-sans-coeur.html"
     dead: false
 
-tweet: "I do not exactly know why but I could not agree more!"
+message: "I do not exactly know why but I could not agree more!"
 ---

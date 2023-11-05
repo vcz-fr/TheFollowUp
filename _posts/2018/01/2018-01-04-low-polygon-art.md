@@ -6,5 +6,5 @@ link:
     url: "https://www.lowpolygonart.com/"
     dead: false
 
-tweet: "If you like abstract backgrounds made of triangles then this is for you"
+message: "If you like abstract backgrounds made of triangles then this is for you"
 ---

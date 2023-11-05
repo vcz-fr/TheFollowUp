@@ -6,7 +6,7 @@ link:
     url: "https://www.playstation.com/en-us/"
     dead: false
 
-tweet: "Get ready, Sony goes live soon for their PlayStation 4 announcement event!"
+message: "Get ready, Sony goes live soon for their PlayStation 4 announcement event!"
 ---
 
 ## Additional information

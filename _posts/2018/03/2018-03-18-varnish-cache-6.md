@@ -6,5 +6,5 @@ link:
     url: "https://varnish-cache.org/releases/rel6.0.0.html"
     dead: false
 
-tweet: "This Varnish update is mostly under-the-hood changes but should not be avoided nonetheless."
+message: "This Varnish update is mostly under-the-hood changes but should not be avoided nonetheless."
 ---

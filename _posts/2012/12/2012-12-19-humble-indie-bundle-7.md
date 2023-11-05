@@ -6,5 +6,5 @@ link:
     url: "https://www.humblebundle.com/"
     dead: false
 
-tweet: "As always, a dream come true in this Humble Indie Bundle, including Indie Game: The movie."
+message: "As always, a dream come true in this Humble Indie Bundle, including Indie Game: The movie."
 ---

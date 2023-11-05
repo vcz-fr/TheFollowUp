@@ -6,5 +6,5 @@ link:
     url: "https://twitter.com/Clubic/status/279648308983627776"
     dead: false
 
-tweet: "There once was a person names Sam Sung and they worked for Apple..."
+message: "There once was a person names Sam Sung and they worked for Apple..."
 ---

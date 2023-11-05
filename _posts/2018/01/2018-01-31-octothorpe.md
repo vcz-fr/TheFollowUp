@@ -6,5 +6,5 @@ link:
     url: "https://blog.chiariglione.org/a-crisis-the-causes-and-a-solution/"
     dead: false
 
-tweet: "#octothorpe"
+message: "#octothorpe"
 ---

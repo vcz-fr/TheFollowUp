@@ -6,5 +6,5 @@ link:
     url: "https://books.google.com/talktobooks/"
     dead: true
 
-tweet: "Find books by talking to them."
+message: "Find books by talking to them."
 ---

@@ -6,7 +6,7 @@ link:
     url: "https://twitter.com/lemondefr/status/619421817934118912"
     dead: false
 
-tweet: "This famous French news outlet tweeted a very serious article with an image containing... less serious code."
+message: "This famous French news outlet tweeted a very serious article with an image containing... less serious code."
 
 images:
   - echo-banana.webp

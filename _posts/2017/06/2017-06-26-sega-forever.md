@@ -6,5 +6,5 @@ link:
     url: "https://forever.sega.com/"
     dead: false
 
-tweet: "Sega publishes some of their classics for free as mobile apps."
+message: "Sega publishes some of their classics for free as mobile apps."
 ---

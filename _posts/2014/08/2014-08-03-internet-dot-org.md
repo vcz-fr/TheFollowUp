@@ -6,7 +6,7 @@ link:
     url: "https://internet.org/"
     dead: true
 
-tweet: "With this, you can clearly identify which IT news websites are trustworthy."
+message: "With this, you can clearly identify which IT news websites are trustworthy."
 ---
 
 ## Additional information

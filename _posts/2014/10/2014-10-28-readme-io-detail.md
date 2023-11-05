@@ -6,7 +6,7 @@ link:
     url: "https://twitter.com/micho/status/526868242955243520"
     dead: false
 
-tweet: "Here is an awesome detail from the login page of ReadMe.io"
+message: "Here is an awesome detail from the login page of ReadMe.io"
 ---
 
 ## Update from the 17th of May 2021

@@ -6,5 +6,5 @@ link:
     url: "https://www.youtube.com/watch?v=-huwiIHUDSc"
     dead: false
 
-tweet: "The fourth season of Epic Rap Battles of History will start soon!"
+message: "The fourth season of Epic Rap Battles of History will start soon!"
 ---

@@ -6,5 +6,5 @@ link:
     url: "https://www.reddit.com/r/itsaunixsystem/"
     dead: false
 
-tweet: "How computer systems are represented within TV movies and series"
+message: "How computer systems are represented within TV movies and series"
 ---

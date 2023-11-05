@@ -6,5 +6,5 @@ link:
     url: "https://www.numerama.com/magazine/22669-youtube-recoit-72-heures-de-video-par-minute.html"
     dead: false
 
-tweet: "Youtube crossed a milestone: three days of video uploaded per minute!"
+message: "Youtube crossed a milestone: three days of video uploaded per minute!"
 ---

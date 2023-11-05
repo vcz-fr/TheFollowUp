@@ -6,7 +6,7 @@ link:
     url: "https://news.ycombinator.com/"
     dead: false
 
-tweet: "An S-tier website for engineers of all sorts. I wish I knew it before."
+message: "An S-tier website for engineers of all sorts. I wish I knew it before."
 ---
 
 ## Update from the 26th of November 2021

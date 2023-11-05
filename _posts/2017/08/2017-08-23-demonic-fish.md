@@ -6,5 +6,5 @@ link:
     url: "https://www.youtube.com/watch?v=iRtu8FgYIAU"
     dead: false
 
-tweet: "... Singin' Do Wah Diddy Diddy Dum Diddy Doo!"
+message: "... Singin' Do Wah Diddy Diddy Dum Diddy Doo!"
 ---

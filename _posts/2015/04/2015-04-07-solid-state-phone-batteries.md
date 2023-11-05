@@ -6,7 +6,7 @@ link:
     url: "https://www.lefigaro.fr/secteur/high-tech/2015/04/07/32001-20150407ARTFIG00329-bientot-une-batterie-qui-rechargera-votre-smartphone-en-une-minute.php"
     dead: false
 
-tweet: "Some of our best breakthroughs are accidental it seems."
+message: "Some of our best breakthroughs are accidental it seems."
 ---
 
 ## Update from the 1st of August 2021

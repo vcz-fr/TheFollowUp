@@ -6,5 +6,5 @@ link:
     url: "https://www.amazon.fr/dp/B01GU6TINM/"
     dead: false
 
-tweet: "Apparently, you can microwave this notebook to erase its contents?!"
+message: "Apparently, you can microwave this notebook to erase its contents?!"
 ---

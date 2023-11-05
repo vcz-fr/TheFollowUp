@@ -6,5 +6,5 @@ link:
     url: "https://coach.dating/"
     dead: true
 
-tweet: "Fans of Black Mirror will quickly recognize this gadget."
+message: "Fans of Black Mirror will quickly recognize this gadget."
 ---

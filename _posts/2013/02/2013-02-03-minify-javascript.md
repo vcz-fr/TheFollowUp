@@ -6,5 +6,5 @@ link:
     url: "http://www.minifyjavascript.com/"
     dead: false
 
-tweet: "A tool for minifying JavaScript code."
+message: "A tool for minifying JavaScript code."
 ---

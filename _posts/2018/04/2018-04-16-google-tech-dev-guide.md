@@ -6,5 +6,5 @@ link:
     url: "https://techdevguide.withgoogle.com/"
     dead: false
 
-tweet: "Grow your technical skills with Google."
+message: "Grow your technical skills with Google."
 ---

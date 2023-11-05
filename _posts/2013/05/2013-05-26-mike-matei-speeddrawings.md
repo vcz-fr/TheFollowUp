@@ -6,5 +6,5 @@ link:
     url: "https://www.youtube.com/watch?v=BlRDewyrpFE"
     dead: false
 
-tweet: "No doubt, Mike Matei knows his way with the WiiU Gamepad"
+message: "No doubt, Mike Matei knows his way with the WiiU Gamepad"
 ---

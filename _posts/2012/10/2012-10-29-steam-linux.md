@@ -6,5 +6,5 @@ link:
     url: "https://www.valvesoftware.com/linuxsurvey.php"
     dead: true
 
-tweet: "Soon, Steam on Linux!"
+message: "Soon, Steam on Linux!"
 ---

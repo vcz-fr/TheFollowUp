@@ -6,5 +6,5 @@ link:
     url: "https://github.com/keith-turner/ecoji"
     dead: false
 
-tweet: "A base 1024 encoder/decoder with emoji!"
+message: "A base 1024 encoder/decoder with emoji!"
 ---

@@ -6,5 +6,5 @@ link:
     url: "https://codepen.io/ge1doot/full/LkdOwj"
     dead: false
 
-tweet: "What am I even looking at?"
+message: "What am I even looking at?"
 ---

@@ -6,5 +6,5 @@ link:
     url: "https://gethal.com/"
     dead: false
 
-tweet: "What if your intelligent assistant was a human?"
+message: "What if your intelligent assistant was a human?"
 ---

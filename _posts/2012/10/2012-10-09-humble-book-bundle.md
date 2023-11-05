@@ -6,5 +6,5 @@ link:
     url: "https://www.humblebundle.com/"
     dead: false
 
-tweet: "Humble Indie Bundle now sells e-books bundles."
+message: "Humble Indie Bundle now sells e-books bundles."
 ---

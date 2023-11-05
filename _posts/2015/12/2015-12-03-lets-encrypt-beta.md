@@ -6,5 +6,5 @@ link:
     url: "https://twitter.com/letsencrypt/status/672479056957313027"
     dead: false
 
-tweet: "Let's Encrypt enters Public Beta!"
+message: "Let's Encrypt enters Public Beta!"
 ---

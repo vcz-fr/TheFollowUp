@@ -6,7 +6,7 @@ link:
     url: "https://blog.chiariglione.org/a-crisis-the-causes-and-a-solution/"
     dead: false
 
-tweet: "The founder and chairman of MPEG feels threatened by the Alliance for Open Media"
+message: "The founder and chairman of MPEG feels threatened by the Alliance for Open Media"
 ---
 
 ## Update from the 10th of July 2022

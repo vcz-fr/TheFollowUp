@@ -6,5 +6,5 @@ link:
     url: "https://thephpleague.com/"
     dead: false
 
-tweet: "For PHP developers that wish not to reinvent the wheel again."
+message: "For PHP developers that wish not to reinvent the wheel again."
 ---

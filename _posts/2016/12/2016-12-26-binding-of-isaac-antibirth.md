@@ -6,7 +6,7 @@ link:
     url: "https://antibirth.com/"
     dead: false
 
-tweet: "An exceptional fan-made mod that lives up to expectations. Congratulations!"
+message: "An exceptional fan-made mod that lives up to expectations. Congratulations!"
 ---
 
 ## Update from the 26th of November 2021

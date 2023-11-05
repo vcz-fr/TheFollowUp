@@ -6,5 +6,5 @@ link:
     url: "https://wiki.mozilla.org/Firefox/Roadmap"
     dead: true
 
-tweet: "The roadmap of this year for Firefox. Lots of big projects ahead!"
+message: "The roadmap of this year for Firefox. Lots of big projects ahead!"
 ---

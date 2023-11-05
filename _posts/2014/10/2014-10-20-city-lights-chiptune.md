@@ -6,5 +6,5 @@ link:
     url: "https://chipmusic.org/groovemaster303/music/city-lights-ym2612-act-2"
     dead: false
 
-tweet: "A wild funk chiptune appears."
+message: "A wild funk chiptune appears."
 ---

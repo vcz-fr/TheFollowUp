@@ -6,5 +6,5 @@ link:
     url: "https://github.com/hugomd/parrot.live"
     dead: false
 
-tweet: "This project makes the terminal a little more festive!"
+message: "This project makes the terminal a little more festive!"
 ---

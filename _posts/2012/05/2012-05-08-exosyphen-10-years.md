@@ -6,5 +6,5 @@ link:
     url: "https://www.facebook.com/exosyphenstudios"
     dead: false
 
-tweet: "Exosyphen Studios, creators of Hacker Evolution, celebrate their 10th anniversary!"
+message: "Exosyphen Studios, creators of Hacker Evolution, celebrate their 10th anniversary!"
 ---

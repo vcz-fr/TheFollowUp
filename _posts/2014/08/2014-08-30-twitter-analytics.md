@@ -6,7 +6,7 @@ link:
     url: "https://analytics.twitter.com/"
     dead: false
 
-tweet: "Twitter proposes statistics to identify your audience and create better content. Try it!"
+message: "Twitter proposes statistics to identify your audience and create better content. Try it!"
 ---
 
 ## Additional information

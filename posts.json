@@ -7,7 +7,7 @@
         "url": {{ page.url | jsonify }},
         "categories": {{ page.categories | jsonify }},
         "link": {{ page.link | jsonify }},
-        "tweet": {{ page.tweet | jsonify }},
+        "message": {{ page.message | jsonify }},
         "hasImage": {% if page.images != null and page.images.size > 0 %}true{% else %}false{% endif %},
         "description": {{ page.content | strip_html | normalize_whitespace | jsonify }}
     }{%- unless forloop.last -%},{%- endunless -%}

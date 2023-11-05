@@ -6,7 +6,7 @@ link:
     url: "https://consomac.fr/news-4830-intel-montre-optane-pour-la-premiere-fois.html"
     dead: false
 
-tweet: "Intel unveils Optane, a new high-performance storage technology"
+message: "Intel unveils Optane, a new high-performance storage technology"
 ---
 
 ## Additional information

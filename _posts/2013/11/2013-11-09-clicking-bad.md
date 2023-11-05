@@ -6,5 +6,5 @@ link:
     url: "http://clickingbad.nullism.com/"
     dead: false
 
-tweet: "We truly are in a Idle games period with Cookie Clicker, Candy Box 2 and now this."
+message: "We truly are in a Idle games period with Cookie Clicker, Candy Box 2 and now this."
 ---

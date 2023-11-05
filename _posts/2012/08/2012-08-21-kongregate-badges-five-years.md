@@ -6,5 +6,5 @@ link:
     url: "https://www.kongregate.com/"
     dead: false
 
-tweet: "Five years ago, Kongregate started challenging flash-gamers through their badge system."
+message: "Five years ago, Kongregate started challenging flash-gamers through their badge system."
 ---

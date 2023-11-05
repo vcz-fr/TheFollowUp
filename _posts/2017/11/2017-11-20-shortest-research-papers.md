@@ -6,5 +6,5 @@ link:
     url: "https://paperpile.com/blog/shortest-papers/"
     dead: false
 
-tweet: "These research papers are the absolute shortest you have ever seen!"
+message: "These research papers are the absolute shortest you have ever seen!"
 ---

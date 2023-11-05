@@ -6,5 +6,5 @@ link:
     url: "https://codeexplainer.wordpress.com/2017/08/27/underscore-pi/"
     dead: false
 
-tweet: "This IOCCC winning entry is a clever way to calculate an approximation of pi!"
+message: "This IOCCC winning entry is a clever way to calculate an approximation of pi!"
 ---

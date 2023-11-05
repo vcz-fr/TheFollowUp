@@ -6,7 +6,7 @@ link:
     url: "https://canibuyagpuyet.xyz/"
     dead: true
 
-tweet: "When will I finally be able to play the newest AAA titles in VR please?!"
+message: "When will I finally be able to play the newest AAA titles in VR please?!"
 ---
 
 ## Update from the 10th of July 2022

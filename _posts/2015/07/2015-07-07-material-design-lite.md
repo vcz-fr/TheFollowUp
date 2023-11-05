@@ -6,5 +6,5 @@ link:
     url: "https://getmdl.io/"
     dead: false
 
-tweet: "Google release their cross-platform Material Design component library."
+message: "Google release their cross-platform Material Design component library."
 ---

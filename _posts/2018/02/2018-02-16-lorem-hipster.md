@@ -6,5 +6,5 @@ link:
     url: "https://hipsum.co/"
     dead: false
 
-tweet: "A filler text that likes kombucha and excellent coffee"
+message: "A filler text that likes kombucha and excellent coffee"
 ---

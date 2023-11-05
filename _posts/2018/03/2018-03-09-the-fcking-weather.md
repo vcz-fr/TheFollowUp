@@ -6,5 +6,5 @@ link:
     url: "https://alcohollick.com/the-fucking-weather"
     dead: true
 
-tweet: "The weather looks rude, today."
+message: "The weather looks rude, today."
 ---

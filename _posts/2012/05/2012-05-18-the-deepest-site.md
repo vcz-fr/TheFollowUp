@@ -6,5 +6,5 @@ link:
     url: "https://thedeepestsite.com/"
     dead: false
 
-tweet: "I chalenge you to reach the bottom without cheating!"
+message: "I chalenge you to reach the bottom without cheating!"
 ---

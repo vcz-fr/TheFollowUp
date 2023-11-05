@@ -6,7 +6,7 @@ link:
     url: "https://blog.phonebloks.com/post/98723406113/project-ara-news-by-giulio-minotti-google"
     dead: false
 
-tweet: "Project Ara, also known as Phonebloks, is set for release for early 2015"
+message: "Project Ara, also known as Phonebloks, is set for release for early 2015"
 ---
 
 ## Update from the 17th of May 2021
