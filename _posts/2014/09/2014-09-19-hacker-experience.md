@@ -5,7 +5,6 @@ categories: ["Games"]
 link:
     url: "https://hackerexperience.com/"
     dead: true
-    follow: false
 
 tweet: "I recently stumbled upon this nice online hacking simulation game. Recent and somewhat active!"
 ---

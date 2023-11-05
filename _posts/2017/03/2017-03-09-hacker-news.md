@@ -5,7 +5,6 @@ categories: ["Reads"]
 link:
     url: "https://news.ycombinator.com/"
     dead: false
-    follow: false
 
 tweet: "An S-tier website for engineers of all sorts. I wish I knew it before."
 ---

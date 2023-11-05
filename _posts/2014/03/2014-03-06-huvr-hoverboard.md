@@ -5,7 +5,6 @@ categories: ["High-Tech"]
 link:
     url: "https://www.youtube.com/watch?v=A4vE_vpkr90"
     dead: false
-    follow: false
 
 tweet: "Wait, is this a hoverboard just like in Back to the Future 2?"
 ---

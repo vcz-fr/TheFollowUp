@@ -5,7 +5,6 @@ categories: ["Shows"]
 link:
     url: "https://www.youtube.com/watch?v=8ZtInClXe1Q"
     dead: false
-    follow: false
 
 tweet: "If you are an aspiring web developer, please watch this video and take some inspiration from it."
 ---

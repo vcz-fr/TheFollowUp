@@ -5,7 +5,6 @@ categories: ["Web"]
 link:
     url: "https://canibuyagpuyet.xyz/"
     dead: true
-    follow: false
 
 tweet: "When will I finally be able to play the newest AAA titles in VR please?!"
 ---

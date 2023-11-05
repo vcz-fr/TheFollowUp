@@ -5,7 +5,6 @@ categories: ["Web"]
 link:
     url: "https://internet.org/"
     dead: true
-    follow: false
 
 tweet: "With this, you can clearly identify which IT news websites are trustworthy."
 ---

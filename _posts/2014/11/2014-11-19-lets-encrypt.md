@@ -5,7 +5,6 @@ categories: ["Web"]
 link:
     url: "https://www.numerama.com/magazine/31321-chiffrement-https-certificat.html"
     dead: false
-    follow: false
 
 tweet: "HTTPS could soon become accessible thanks to Let's Encrypt"
 

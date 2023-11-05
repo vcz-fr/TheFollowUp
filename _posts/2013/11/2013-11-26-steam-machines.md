@@ -5,7 +5,6 @@ categories: ["Hardware"]
 link:
     url: "http://www.jeuxvideo.fr/tag-materiel/prototype-steam-machine-images-actu-603202.html"
     dead: false
-    follow: false
 
 tweet: "The Steam machines prototypes are being leaked."
 

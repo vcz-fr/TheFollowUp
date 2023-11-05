@@ -5,7 +5,6 @@ categories: ["Web"]
 link:
     url: "https://www.mozilla.org/en-US/firefox/developer/"
     dead: false
-    follow: false
 
 tweet: "A browser for Web Developers, by Mozilla"
 ---

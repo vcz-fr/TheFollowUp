@@ -5,7 +5,6 @@ categories: ["Games"]
 link:
     url: "https://antibirth.com/"
     dead: false
-    follow: false
 
 tweet: "An exceptional fan-made mod that lives up to expectations. Congratulations!"
 ---

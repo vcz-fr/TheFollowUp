@@ -5,7 +5,6 @@ categories: ["Random"]
 link:
     url: "https://alcohollick.com/the-fucking-weather"
     dead: true
-    follow: false
 
 tweet: "The weather looks rude, today."
 ---

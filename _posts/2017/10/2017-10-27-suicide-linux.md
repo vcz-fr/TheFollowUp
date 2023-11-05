@@ -5,7 +5,6 @@ categories: ["OS"]
 link:
     url: "https://qntm.org/suicide"
     dead: false
-    follow: false
 
 tweet: "One mistaken command and you are done"
 ---

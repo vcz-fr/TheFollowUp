@@ -36,8 +36,7 @@ layout: default
         <h2>Link</h2>
         <p>
             <a {% if page.link.dead %}class="dead" title="This link is dead :/" {% else %}href="{{ page.link.url }}" {%
-                endif %} {% if page.link.follow==false %}rel="nofollow noopener noreferrer" {% endif
-                %}>{{page.link.url}}</a>
+                endif %} rel="nofollow noopener noreferrer">{{page.link.url}}</a>
         </p>
     </div>
 

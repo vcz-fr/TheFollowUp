@@ -5,7 +5,6 @@ categories: ["High-Tech"]
 link:
     url: "https://www.journaldugeek.com/2018/02/09/vivo-smartphone-completement-borderless-capteur-photo-facade/"
     dead: false
-    follow: false
 
 tweet: "Is it time for borderless phones?"
 ---

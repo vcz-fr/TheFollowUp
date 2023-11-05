@@ -5,7 +5,6 @@ categories: ["News"]
 link:
     url: "https://www.boursier.com/actualites/economie/et-pendant-ce-temps-free-mobile-engrange-14744.html"
     dead: false
-    follow: false
 
 tweet: "Free Mobile won, go Free and congratulations on your 3 millionth customer!"
 ---

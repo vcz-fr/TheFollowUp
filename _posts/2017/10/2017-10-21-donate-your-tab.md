@@ -5,7 +5,6 @@ categories: ["Web"]
 link:
     url: "https://donateyourtab.to/"
     dead: true
-    follow: false
 
 tweet: "If they actually donate the proceeds to charity, this is a great move."
 ---

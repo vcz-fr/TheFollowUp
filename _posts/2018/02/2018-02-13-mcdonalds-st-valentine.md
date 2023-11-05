@@ -5,7 +5,6 @@ categories: ["Random"]
 link:
     url: "https://piwee.net/pour-la-saint-valentin-mcdo-offre-une-bague-big-mac-a-10-000e-pour-la-plus-belle-declaration-a-son-burger/"
     dead: true
-    follow: false
 
 tweet: "Oh Big Mac, why are you so mesmerizing? I wish you weren't so we'd be together forever."
 ---

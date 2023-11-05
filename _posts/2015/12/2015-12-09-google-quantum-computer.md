@@ -5,7 +5,6 @@ categories: ["High-Tech"]
 link:
     url: "https://www.01net.com/actualites/l-ordinateur-quantique-de-google-100-millions-de-fois-plus-rapide-qu-une-machine-classique-935647.html"
     dead: false
-    follow: false
 
 tweet: "The first steps of Google towards demonstrating quantum advantage"
 ---

@@ -5,7 +5,6 @@ categories: ["Games"]
 link:
     url: "https://armorgames.com/play/13256/epic-combo-redux"
     dead: false
-    follow: false
 
 tweet: "Do you like games from John at ArmorGames? Well he just released one of his classics!"
 ---

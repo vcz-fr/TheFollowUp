@@ -5,7 +5,6 @@ categories: ["Games"]
 link:
     url: "https://www.playstation.com/en-us/"
     dead: false
-    follow: false
 
 tweet: "Get ready, Sony goes live soon for their PlayStation 4 announcement event!"
 ---

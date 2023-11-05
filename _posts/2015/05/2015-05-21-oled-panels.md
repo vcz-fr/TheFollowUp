@@ -5,7 +5,6 @@ categories: ["High-Tech"]
 link:
     url: "https://www.numerama.com/magazine/33155-lg-oled-finesse.html"
     dead: false
-    follow: false
 
 tweet: "Less than a millimeter thick, flexible and 55 inches diagonally. A new generation of display technology is on the horizon."
 ---

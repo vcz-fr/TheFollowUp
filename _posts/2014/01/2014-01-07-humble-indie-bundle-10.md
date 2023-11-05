@@ -5,7 +5,6 @@ categories: ["Games"]
 link:
     url: "https://www.humblebundle.com/"
     dead: false
-    follow: false
 
 tweet: "Get yourself an indie game treat with this Humble Indie Bundle X! That's right, it is the tenth edition and it looks promising!"
 ---

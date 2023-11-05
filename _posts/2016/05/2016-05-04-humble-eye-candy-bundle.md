@@ -5,7 +5,6 @@ categories: ["Games"]
 link:
     url: "http://biomodel.uah.es/"
     dead: false
-    follow: false
 
 tweet: "A new indie games bundle is online. This one has Evoland 2 and Shantae: Risky's Revenge!"
 ---

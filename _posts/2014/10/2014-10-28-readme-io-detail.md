@@ -5,7 +5,6 @@ categories: ["OS"]
 link:
     url: "https://twitter.com/micho/status/526868242955243520"
     dead: false
-    follow: false
 
 tweet: "Here is an awesome detail from the login page of ReadMe.io"
 ---

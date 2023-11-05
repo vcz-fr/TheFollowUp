@@ -5,7 +5,6 @@ categories: ["Tools"]
 link:
     url: "https://analytics.twitter.com/"
     dead: false
-    follow: false
 
 tweet: "Twitter proposes statistics to identify your audience and create better content. Try it!"
 ---

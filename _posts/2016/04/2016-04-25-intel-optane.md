@@ -5,7 +5,6 @@ categories: ["High-Tech"]
 link:
     url: "https://consomac.fr/news-4830-intel-montre-optane-pour-la-premiere-fois.html"
     dead: false
-    follow: false
 
 tweet: "Intel unveils Optane, a new high-performance storage technology"
 ---

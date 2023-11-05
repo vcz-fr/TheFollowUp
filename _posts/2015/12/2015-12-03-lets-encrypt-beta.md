@@ -5,7 +5,6 @@ categories: ["Web"]
 link:
     url: "https://twitter.com/letsencrypt/status/672479056957313027"
     dead: false
-    follow: false
 
 tweet: "Let's Encrypt enters Public Beta!"
 ---

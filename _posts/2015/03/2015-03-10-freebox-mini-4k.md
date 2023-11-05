@@ -5,7 +5,6 @@ categories: ["Hardware"]
 link:
     url: "https://www.free.fr/freebox/freebox-mini-4k/"
     dead: false
-    follow: false
 
 tweet: "Free, a French ISP, announced a new ground-breaking entry-tier triple-pay offering."
 ---

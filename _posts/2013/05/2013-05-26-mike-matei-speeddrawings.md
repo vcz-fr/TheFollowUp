@@ -5,7 +5,6 @@ categories: ["Shows"]
 link:
     url: "https://www.youtube.com/watch?v=BlRDewyrpFE"
     dead: false
-    follow: false
 
 tweet: "No doubt, Mike Matei knows his way with the WiiU Gamepad"
 ---

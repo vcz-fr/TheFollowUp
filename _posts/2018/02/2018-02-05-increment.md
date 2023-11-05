@@ -5,7 +5,6 @@ categories: ["Reads"]
 link:
     url: "https://increment.com/"
     dead: false
-    follow: false
 
 tweet: "Increment is by far one of my favourite technical magazines, scouting the industry for interesting facts about each topic"
 ---
